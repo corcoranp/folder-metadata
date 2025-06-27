@@ -1,0 +1,11 @@
+type: project
+name: folder-metadata
+language: python
+version: 0.1.0
+owner: geekout
+team: engineering
+lifecycle: active
+tags: []
+tooling: null
+hooks: null
+dependencies: []
